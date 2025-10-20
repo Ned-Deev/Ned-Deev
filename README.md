@@ -1,13 +1,15 @@
 
-![typing_intro_nice](https://github.com/user-attachments/assets/eafafaab-7e66-4c7d-869d-be52d690076d)
 
-Welcome to my GitHub! I’m passionate about transforming data into meaningful insights and building efficient, scalable data pipelines.
+
+![typing_intro](https://github.com/user-attachments/assets/07b0ed99-9b14-47cc-8cf7-343085f7d2ec)
+
 
 
 
 ## 🧑‍💼 About Me
 
 I’m a Final Year Data Engineering Student,  with a strong background in building scalable ETL pipelines, real-time analytics platforms, and data-driven solutions. I thrive on solving complex data challenges and delivering actionable insights that drive business value.
+I’m passionate about transforming data into meaningful insights and building efficient, scalable data pipelines.
 
 ---
 
