@@ -1,11 +1,6 @@
-# 👋 Hi, I'm Thabang Paul Mbatha
-
-## 👨‍💻 Data Engineer | Data Enthusiast | Problem Solver
+![typing_intro](https://github.com/user-attachments/assets/60049f40-65e8-4e1c-808e-82c08aae9f2c)
 
 Welcome to my GitHub! I’m passionate about transforming data into meaningful insights and building efficient, scalable data pipelines.
-
-
-![typing_intro](https://github.com/user-attachments/assets/766009d6-b8e4-4944-8cf4-2ba32ab89390)
 
 
 
