@@ -92,7 +92,7 @@ I’m passionate about transforming data into meaningful insights and building e
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/mbathathabangpaul@gmail.com-blue?style=flat&logo=gmail)](mailto:thabangpaul@example.com)
-[![LinkedIn](https://img.shields.io/badge/[LinkedIn-thabangpau](https://www.linkedin.com/in/thabang-mbatha-805040273/)-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/thabangpaul)
+[![LinkedIn](https://img.shields.io/badge/[LinkedIn-thabangpau](https://linkedin.com/in/thabang-mbatha-805040273)-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/thabangpaul)
 
 
 ---
