@@ -1,4 +1,5 @@
-![typing_intro](https://github.com/user-attachments/assets/60049f40-65e8-4e1c-808e-82c08aae9f2c)
+
+![typing_intro_nice](https://github.com/user-attachments/assets/eafafaab-7e66-4c7d-869d-be52d690076d)
 
 Welcome to my GitHub! I’m passionate about transforming data into meaningful insights and building efficient, scalable data pipelines.
 
