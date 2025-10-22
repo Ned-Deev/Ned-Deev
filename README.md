@@ -8,10 +8,10 @@
 
 ## 🧑‍💼 About Me
 
-I’m a Final Year Data Engineering Student,  with a strong background in building scalable ETL pipelines, real-time analytics platforms, and data-driven solutions. I thrive on solving complex data challenges and delivering actionable insights that drive business value.
-I’m passionate about transforming data into meaningful insights and building efficient, scalable data pipelines.
+Final Year Data Engineering Student | ETL & Real-Time Analytics Enthusiast | Data-Driven Problem Solver
 
----
+I’m a dedicated final-year Data Engineering student with hands-on experience in designing and building scalable ETL pipelines and real-time analytics platforms. I excel at tackling complex data challenges and delivering actionable insights that empower data-driven decision-making. Passionate about transforming raw data into meaningful business value, I specialize in creating efficient, robust, and scalable data solutions that drive impact.
+
 
 ## 🚀 Featured Projects
 
